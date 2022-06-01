@@ -1,3 +1,7 @@
+lizard
+donkey
+cow
+elephant
 dog
 cat
 lion
