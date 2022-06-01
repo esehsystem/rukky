@@ -2,3 +2,5 @@ dog
 cat
 lion
 tiger
+goat
+sheep
